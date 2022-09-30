@@ -1,0 +1,5 @@
+# Project-Management-in-IT
+Designed a Business Process Model for Project Management in an IT firm that has several domains in it. Built As-Is and To-Be models, and also created multiple databases resembling multiple domains and employees in each domain. Used Oracle SQL for the created databases and generated multiple reports to show the hierarchy of the firm, employee information, and multiple project status at once.
+ABC Pvt. Ltd. is an organization that partners with companies to transform and manage their business. 
+It provides services in various fields of technology with its resources and expertise to react quickly to client needs. 
+A few of the sectors that ABC provides its services are Digital Services, Technology Operations, Business Services, Cloud Services, Mobile Applications, Banking, and Financial Services, etc., It has been very successful in providing services to various clients in these sectors. Due to its excellent services and support, clients tend to go back to ABC for their new projects and if there need to be some modifications to the existing projects. 

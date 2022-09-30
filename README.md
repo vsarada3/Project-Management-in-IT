@@ -3,3 +3,6 @@ Designed a Business Process Model for Project Management in an IT firm that has 
 ABC Pvt. Ltd. is an organization that partners with companies to transform and manage their business. 
 It provides services in various fields of technology with its resources and expertise to react quickly to client needs. 
 A few of the sectors that ABC provides its services are Digital Services, Technology Operations, Business Services, Cloud Services, Mobile Applications, Banking, and Financial Services, etc., It has been very successful in providing services to various clients in these sectors. Due to its excellent services and support, clients tend to go back to ABC for their new projects and if there need to be some modifications to the existing projects. 
+
+
+Using this process, we can check for the projects that have already been worked on by the organization. Once the project is identified, we can gather the data from the database, analyze the existing project, and perform a regression to understand what changes are to be performed for the new requirements. This would save a lot of additional effort that the resources would put into analyzing the requirements from scratch. This would also save the organization a lot of time in terms of development, testing, and implementation and thus resulting in client appreciation.
